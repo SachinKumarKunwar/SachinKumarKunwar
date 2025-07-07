@@ -14,24 +14,26 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a 3rd-year B.Tech Computer Science student at Lovely Professional University  
-- 🌐 I'm passionate about **DevOps, Cloud Engineering, Full-Stack Development**, and building scalable cloud-native apps  
-- ☁️ I'm AWS Certified & skilled in tools like Docker, Terraform, Jenkins, and Kubernetes  
-- 🏆 GDSC WOW Finalist for the innovative assistive mobile app – *Sixth Sense*
+- 🌐 Passionate about **DevOps, Cloud Engineering, Full-Stack Development**, and building scalable cloud-native apps  
+- ☁️ AWS Certified & hands-on with Docker, Terraform, Jenkins, and Kubernetes  
+- 🏆 GDSC WOW Finalist for *Sixth Sense* – an assistive app for visually impaired users  
 
 ---
 
 ### 🧑‍💼 Professional Summary
 
-🚀 I specialize in designing robust CI/CD pipelines, automating infrastructure with IaC, and crafting responsive UIs using modern front-end frameworks like React and TailwindCSS. With a deep understanding of cloud technologies and system architecture, I aim to build secure, scalable, and production-ready applications.
+🚀 I'm a **Full-Stack Developer** and **DevOps enthusiast** with a strong foundation in JavaScript, React.js, Node.js, and MongoDB, coupled with hands-on experience in deploying scalable cloud-native solutions on AWS. I build modern, secure, and responsive applications using MERN stack technologies, and streamline CI/CD pipelines with Docker, Jenkins, and Terraform.
+
+🔧 With a passion for both backend architecture and UI/UX design, I love delivering clean, production-grade systems — from code to cloud.
 
 ---
 
 ### 📌 Featured Projects
 
-- 🎯 [Sixth Sense – Assistive App for Visually Impaired](https://github.com/SachinKumarKunwar) *(GDSC WOW Finalist)*  
-- 📖 [Blogin – Blog Platform with Role-Based Access](https://github.com/SachinKumarKunwar)  
-- 🐳 [MERN App Containerized with Docker Compose](https://github.com/SachinKumarKunwar/MERN-Docker)  
-- 💰 [Expense Tracker](https://github.com/SachinKumarKunwar/ExpenseTrackerGoodFrontEnd)
+- 🎯 [Sixth Sense – Assistive App for Visually Impaired](https://github.com/SachinKumarKunwar/Sixth-Sense) *(GDSC WOW Finalist)*  
+- 📖 [Blogin – Role-Based Blog Platform](https://github.com/SachinKumarKunwar/Blogin-Website)  
+- 🌊 [Pearl of the Indian Ocean – Virtual Tourism Platform](https://github.com/SachinKumarKunwar/Pearl-Of-The-Indian-Ocean)  
+- 🐳 [MERN App Containerized with Docker Compose](https://github.com/SachinKumarKunwar/MERN-Docker)
 
 ---
 
