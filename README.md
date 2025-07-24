@@ -28,7 +28,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 🧱 Full Stack Development Projects
 
 - 🎯 [Sixth Sense – Assistive App for Visually Impaired](https://github.com/SachinKumarKunwar/Sixth-Sense) *(GDSC WOW Finalist)*  
 - 📖 [Blogin – Role-Based Blog Platform](https://github.com/SachinKumarKunwar/Blogin-Website)  
@@ -37,9 +37,18 @@
 
 ---
 
+### ☁️ DevOps & Cloud Projects
+
+- 📡 [DevOps Monitoring on AWS](https://github.com/SachinKumarKunwar/DevOps-Monitoring-AWS)  
+- 🔁 [CI/CD Pipeline using Jenkins & Docker](https://github.com/SachinKumarKunwar/DevOps-CI-CD-Pipeline-Project)
+
+---
+
 ### 📄 Resume
 
-📌 [Click to View My Resume](https://drive.google.com/file/d/1maTin5C39v0K52xNJya8_eVTxexbvcEq/view?usp=sharing)
+📌 [Click to View My General Resume](https://drive.google.com/file/d/1maTin5C39v0K52xNJya8_eVTxexbvcEq/view?usp=sharing)
+
+🧾 [View My Cloud & DevOps Specialized Resume](https://drive.google.com/file/d/1LHuxv__279-v0__FRc3r7spCYtlATcvt/view?usp=sharing)
 
 ---
 
