@@ -1,149 +1,109 @@
-<h1 align="center">Hi, I'm Sachin Kumar Kunwar 👋</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS Certified | Full-Stack Developer</h3>
+# ☁️ Sachin Kumar Kunwar
+### DevOps & Cloud Engineer | AWS Certified Solutions Architect
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachinkumarkunwar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2R5Z2M3d2d5dG1jdDN2ZDF5NnN6eHV4d2l6bW50NWJ6c2RrNmZqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="520" alt="DevOps Cloud GIF"/>
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="DevOps & Cloud Architecture Banner" width="100%" style="border-radius: 10px" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
+I am a **DevOps Engineer** focused on bridging the gap between development and operations through automation. I specialize in building **Self-Healing Infrastructure** and **Security-First CI/CD Pipelines**. With an **AWS Solutions Architect Associate** certification, I design cloud environments that are scalable, cost-optimized, and resilient.
 
-I am a **DevOps & Cloud Engineer** with strong hands-on experience in **AWS, CI/CD automation, containerization, and infrastructure as code**.  
-I focus on building **scalable, secure, observable, and cost-efficient cloud-native systems**, bridging development and operations through automation.
-
-- 🎓 B.Tech CSE student at **Lovely Professional University**
-- ☁️ AWS Certified with real-world cloud deployment experience
-- 🔁 Strong focus on **CI/CD, Kubernetes, Terraform, Docker**
-- 🏆 **GDSC WOW Finalist** — *Sixth Sense* (Assistive Technology)
+- 🔭 **Current Focus:** Advanced Kubernetes orchestration (EKS) and GitOps principles.
+- ⚡ **Key Strength:** Automating toil so developers can ship code reliably and faster.
+- 🎓 **Education:** B.Tech in CSE at Lovely Professional University (Top 5% Merit List).
 
 ---
 
-## ☁️ DevOps & Cloud Projects (Primary Focus)
+## 🛠 Tech Stack & Ecosystem
+*Using industry-standard, medium-sized visual badges for quick scanning.*
 
-### 🔍 DevOps Monitoring on AWS  
-🔗 https://github.com/SachinKumarKunwar/DevOps-Monitoring-AWS  
-- Designed end-to-end monitoring using **AWS CloudWatch, Prometheus exporters, and Grafana dashboards**
-- Implemented alerting strategies with **SNS notifications** and metric thresholds
-- Automated infrastructure provisioning using **Terraform with remote state management**
+### ☁️ Cloud & Infrastructure Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-### 🔁 CI/CD Pipeline using Jenkins & Docker  
-🔗 https://github.com/SachinKumarKunwar/DevOps-CI-CD-Pipeline-Project  
-- Built a **secure Jenkins Declarative Pipeline** for build, test, image scan, and deployment
-- Containerized applications with **Docker multi-stage builds**
-- Integrated **Trivy image scanning** and automated rollback mechanisms
+### 🏗 Containers & Orchestration
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm_Charts-0F1628?style=for-the-badge&logo=helm&logoColor=white" />
+</p>
 
-### 🐳 MERN Application Containerization  
-🔗 https://github.com/SachinKumarKunwar/MERN-Docker  
-- Containerized a full MERN stack using **Docker & Docker Compose**
-- Implemented environment-based configurations (dev/stage/prod)
-- Optimized images for reduced build time and runtime footprint
+### 🔄 CI/CD & Operations
+<p align="left">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### 🏗️ Infrastructure as Code (Terraform)
-- Modular Terraform code for **VPC, IAM, EC2/EKS**
-- S3 remote backend with **DynamoDB state locking**
-- Environment isolation using **workspaces and variables**
-
----
-
-## 🧱 Application & Full-Stack Projects
-
-### ♿ Sixth Sense — Assistive App for Visually Impaired (GDSC WOW Finalist)  
-🔗 https://github.com/SachinKumarKunwar/Sixth-Sense  
-- Accessibility-focused application with voice-based interactions
-- Real-world social impact through inclusive design
-
-### 📝 Blogin — Role-Based Blog Platform  
-🔗 https://github.com/SachinKumarKunwar/Blogin-Website  
-- MERN stack application with **RBAC and JWT authentication**
-- Optimized backend APIs and responsive frontend
-
-### 🌏 Pearl of the Indian Ocean — Virtual Tourism Platform  
-🔗 https://github.com/SachinKumarKunwar/Pearl-Of-The-Indian-Ocean  
-
----
-
-## 🛠️ DevOps & Cloud Tooling
-
-### Cloud & Infrastructure
-- **AWS** (EC2, IAM, CloudWatch, S3, RDS, EKS)
-- **Terraform** — reusable modules, remote state
-
-### CI/CD & Containers
-- **Jenkins** — Declarative pipelines
-- **Docker** — multi-stage builds, Compose
-- **Kubernetes** — deployment basics, HPA concepts
-
-### Observability & Security
-- **Prometheus & Grafana**
-- **CloudWatch Alarms**
-- **Trivy** — container image scanning
-
-### Development
-- Node.js, React.js, Express
-- Python for automation
-- Git, Linux
-
----
-
-## 📄 Resume
-
-- 📌 General Resume  
-  https://drive.google.com/file/d/1maTin5C39v0K52xNJya8_eVTxexbvcEq/view
-
-- ☁️ Cloud & DevOps Resume  
-  https://drive.google.com/file/d/1LHuxv__279-v0__FRc3r7spCYtlATcvt/view
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sachin-kumar-kunwar-14a796251">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SachinKumarKunwar">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/sachin00336699">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/users/equal_care_49">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
-  </a>
+### 📊 Observability & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy_Security-46E3B7?style=for-the-badge&logo=trivy&logoColor=black" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Recent Experience
 
+#### **DevOps Engineer Intern** | Gokboru Tech
+*June 2024 — July 2024*
+- Engineered serverless workflows using **AWS Lambda** and S3 triggers for automated data processing.
+- Codified infrastructure using **Terraform (IaC)**, reducing environment provisioning time by ~70%.
+- Implemented granular **IAM Policies** enforcing least-privilege access for enhanced cloud security.
+
+#### **Platform Engineer Intern** | InfraStack Solutions
+*March 2025 — May 2025*
+- Architected a highly available **Jenkins CI/CD pipeline** supporting multi-region deployments.
+- Optimized **Docker container** build strategies, achieving a 40% reduction in image size and faster boot times.
+- Deployed **Prometheus & Grafana** stacks for real-time cluster monitoring and proactive alerting.
+
+---
+
+## 🏆 Featured Architectures
+
+### 🌩️ [AWS Elastic Kubernetes Service (EKS) Monitoring Stack](https://github.com/SachinKumarKunwar/DevOps-Monitoring-AWS)
+> **Core Tech:** Terraform, EKS, Helm, Prometheus, Grafana
+- End-to-end automation of an EKS cluster deployment using Terraform.
+- Configured a complete observability suite using Helm charts to visualize node health and pod metrics in Grafana dashboards.
+
+### 🛡️ [DevSecOps CI/CD Delivery Pipeline](https://github.com/SachinKumarKunwar/DevOps-CI-CD-Pipeline-Project)
+> **Core Tech:** Jenkins, Docker, Trivy Scanner, SonarQube
+- A "Shift-Left" security approach integrating Trivy container scanning directly into the build stage.
+- Pipeline gates prevent deployment if critical vulnerabilities are detected, ensuring secure releases.
+
+---
+
+## 📜 Certifications & Credentials
+- ☁️ **AWS Certified Solutions Architect – Associate** (August 2025)
+- 🎓 **Dean’s List Honoree (Top 5%)** – Lovely Professional University
+- 📜 **Google IT Automation with Python Professional Certificate**
+
+---
+
+## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinkumarkunwar&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumarkunwar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinKumarKunwar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sachin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinKumarKunwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinkumarkunwar&theme=algolia&row=2&column=4" />
+## 📫 Connect For Opportunities
+<p align="left">
+  <a href="mailto:sachin003322@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sachin-kumar-kunwar-14a796251"><img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1h-LEnSgvDMYiAIf5i6fd4KjPjqUenHoh/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
----
-
-## 💬 Engineering Philosophy
-
-> “Automate everything that can break.  
-> Monitor everything that can fail.”
-
----
-
-## ☕ Fun Fact
-
-I debug production issues faster with **coffee, logs, and metrics**.
+<p align="center">
+  <br>
+  <i>"Infrastructure as Code. Operations as Design."</i>
+</p>
